@@ -20,3 +20,5 @@ else:
     tax_payable = 10000 * 10 /100
     tax_payable += (given_income-20000) * 20 / 100
 
+# Display the total income tax payable 
+print ("If income is $"given_income",then the total income tax payable is $",tax_payable)
