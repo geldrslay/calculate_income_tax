@@ -4,7 +4,7 @@
 # The remaining amount has a 20% rate. 
 
 # Display the given income. 
-given_income = 15000
+given_income = 45000
 print ('The given income is: $', given_income)
 
 # Determine income tax payable if income is less than or equal to $10,000. 
